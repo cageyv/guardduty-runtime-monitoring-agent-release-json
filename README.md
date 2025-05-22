@@ -1,5 +1,6 @@
 # guardduty-runtime-monitoring-agent-release-json
 GuardDuty Runtime Monitoring Agent Release History as JSON
+https://guarddutysha.cageyv.dev/guardduty_runtime_image_sha256.json
 
 # Main problem
 AWS doesn’t expose GuardDuty runtime monitoring agent versions (for Fargate) via an API.
