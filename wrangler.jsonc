@@ -1,0 +1,4 @@
+{
+    "name": "guardduty-runtime-monitoring-agent-release-json",
+    "pages_build_output_dir": "./result"
+  }

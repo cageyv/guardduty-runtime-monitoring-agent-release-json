@@ -88,6 +88,6 @@ def fetch_guardduty_digests():
 
 if __name__ == "__main__":
     digests = fetch_guardduty_digests()
-    with open('guardduty_runtime_image_sha256.json', 'w') as f:
+    with open('result/guardduty_runtime_image_sha256.json', 'w') as f:
         json.dump(digests, f, indent=2)
     
