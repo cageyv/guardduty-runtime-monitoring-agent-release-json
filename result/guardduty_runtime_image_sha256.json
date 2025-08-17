@@ -1,5 +1,6 @@
 {
   "fargate_ecs": {
+    "v1.8.0-Fg_x86_64": "sha256:4425417f39e38b24c1be428bacad1dad53e0645530dcf4422436353bfe358e3a",
     "v1.7.0-Fg_x86_64": "sha256:bf9197abdf853607e5fa392b4f97ccdd6ca56dd179be3ce8849e552d96582ac8",
     "v1.7.0-Fg_arm64": "sha256:bf9197abdf853607e5fa392b4f97ccdd6ca56dd179be3ce8849e552d96582ac8",
     "v1.6.0-Fg_x86_64": "sha256:c8dea71d372bc47b2f236f7a091b9a9b06bc8193c1cfe4c9346eb50f89258897",
